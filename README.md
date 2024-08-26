@@ -1,10 +1,8 @@
-Hi 👨‍💻 I'm Vicente Lermanda
-=================================
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8b967b6d-f9b0-46dc-9a90-a0579da36b4b" width="20%"/>
-  <img src="https://github.com/user-attachments/assets/8b967b6d-f9b0-46dc-9a90-a0579da36b4b" width="20%"/>
-  <img src="https://github.com/user-attachments/assets/8b967b6d-f9b0-46dc-9a90-a0579da36b4b" width="20%"/>
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/129e2efc-52df-4035-9ad2-40ebfb5068f0" width="80%"/>
 </div>
+
+---
 
 Skills & Tools 💻
 ------------------------------------
